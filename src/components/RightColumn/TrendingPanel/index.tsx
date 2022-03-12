@@ -14,42 +14,42 @@ const TrendingPanel: React.FC = () => {
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
+              <span className="head">Ciência de Dados</span>
               <span className="subtext">há 1 d • 316 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
+              <span className="head">ReactJS</span>
               <span className="subtext">há 1 d • 316 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
+              <span className="head">NextJS</span>
               <span className="subtext">há 1 d • 316 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
+              <span className="head">Rocketseat</span>
               <span className="subtext">há 1 d • 316 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
+              <span className="head">Node</span>
               <span className="subtext">há 1 d • 316 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
+              <span className="head">Laravel | PHP POO</span>
               <span className="subtext">há 1 d • 316 leitores</span>
             </span>
           </li>
