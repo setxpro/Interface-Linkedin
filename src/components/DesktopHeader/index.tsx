@@ -31,7 +31,7 @@ const DesktopHeader: React.FC = () => {
                   </button>
                   <button>
                     <ProfileCircle src="https://github.com/setxpro.png" />
-                    <span>Eu <CaretDownIcon /></span>
+                    <span> Eu <CaretDownIcon /></span>
                   </button>
                 </nav>
             </div>
